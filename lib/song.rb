@@ -7,4 +7,8 @@ class Song
     @name = name   
   end   
   
+  def artist_name
+      
+  end 
+  
 end 

@@ -1,6 +1,6 @@
 class Song 
 
-  attr_accessor :title, :artist, song   
+  attr_accessor :title, :artist, :song   
   
   def song 
     self.title = 
